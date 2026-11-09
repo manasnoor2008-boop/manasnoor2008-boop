@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Anas 👋
 
-<!--
-**manasnoor2008-boop/manasnoor2008-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python Developer | Web Developer | AI Enthusiast**
 
-Here are some ideas to get you started:
+I build web applications and Python-based solutions, leveraging modern AI tools to improve productivity, code quality, and development workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Interests
+- 🐍 Python Development
+- 🌐 Web Development
+- 🤖 AI & Automation
+- ⚡ AI Development
+
+### Connect
+- 💻 GitHub: [@manasnoor2008-boop](https://github.com/manasnoor2008-boop)
+
+*Building solutions. Exploring technology. Innovating with AI.*
